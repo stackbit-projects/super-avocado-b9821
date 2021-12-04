@@ -23,7 +23,7 @@ sections:
       caption: Image caption
     styles:
       self:
-        height: screen
+        height: auto
         width: full
         margin:
           - mt-0
